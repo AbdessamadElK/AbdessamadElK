@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdessamadElK
 - 👀 I’m interested in embedded electronics, IOT and machine learning.
-- 🌱 I’m currently studying embedded electronics at the university.
+- 🌱 I’m currently a PhD student at Ibn Tofail University.
 - 💞️ I’m looking to collaborate on machine learning or python projects in general.
 
 <!---
